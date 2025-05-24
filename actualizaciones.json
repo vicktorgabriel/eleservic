@@ -1,0 +1,43 @@
+{
+    "ultima_version": "1.3.0",
+    "historial": [
+	      {
+    			"version": "1.4.0",
+    			"fecha": "2025-05-22",
+    			"cambios": [
+    				"Autocompletado de productos en panel de ventas",
+    				"Selector modal con filtrado mejorado",
+    				"Umbrales configurables de stock y reparaciones",
+    				"Correcciones en Panel de Ventas",
+    				"Limpieza del Codigo"
+			      ]
+		    },
+        {
+            "version": "1.3.0",
+            "fecha": "2025-05-07",
+            "cambios": [
+                "Editor de reparaciones con campos completos (email, costo, aprobado)",
+                "Opción de reimprimir A4 o Ticket desde historial",
+                "Visualización de email, costo y aprobado en historial de reparaciones",
+                "Correcciones menores y mejoras visuales"
+            ]
+        },
+        {
+            "version": "1.2.0",
+            "fecha": "2025-05-07",
+            "cambios": [
+                "Nuevo panel de gestión de usuarios",
+                "Optimizaciones en ventas",
+                "Mejora en el sistema de tickets"
+            ]
+        },
+        {
+            "version": "1.1.0",
+            "fecha": "2025-04-30",
+            "cambios": [
+                "Soporte para impresión térmica",
+                "Corrección de errores en configuración"
+            ]
+        }
+    ]
+}
