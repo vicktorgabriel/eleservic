@@ -1,6 +1,18 @@
 {
-    "ultima_version": "1.4.0",
-    "historial": [
+	"ultima_version": "1.4.5",
+    	"historial": [
+	{
+			"version": "1.4.5",
+			"fecha": "2025-05-28",
+			"cambios": [
+		"Correccion en Actualizador",
+                "Correccion en el panel de ventas, ahora muestra el error de AFIP",
+                "Implementacion de Mensajes de ventas por Whatsapp WEB, (Requiere Whatsapp Web)",
+                "Implementacion de Mensajes de Reparaciones por Whatsapp WEB, (Requiere Whatsapp Web)",
+                "Correcciones en Panel Reparaciones, se puede imprimir A4 y Ticket juntos",
+                "Correciones en Creacion de PDF (Venta y Reparaciones)"
+			]
+		},
 	      {
     			"version": "1.4.0",
     			"fecha": "2025-05-22",
