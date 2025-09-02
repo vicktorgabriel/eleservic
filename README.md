@@ -14,6 +14,7 @@ Diseñado para MONOTRIBUTISTAS
 - Registrar equipos en reparación con sus datos, cliente y estado.
 - Registrar ventas de productos y servicios fácilmente.
 - Emitir comprobantes tipo **Factura C** o **Ticket** según el tipo de cliente.
+- Sistema de Padron A13
 - Imprimir tickets para impresora térmica o en formato A4.
 - Consultar el historial de ventas, presupuestos y reparaciones.
 - Enviar mensajes automáticos por **WhatsApp Web** al registrar ventas o reparaciones.
